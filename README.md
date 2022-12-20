@@ -57,7 +57,7 @@ metadata: true // false default return metadata along with domain information
 ### Get a domain default from address
 Get a domain default from a user's address, requiring the user to set the default domain name initially.
 This will designate one of your domain to represent your account and act as your cross-platform Web3 username and profile. You can only have one Primary Domain per wallet address and can change it at any time. Steps to "Set Primary" domains:
-1. Goto dApp: trxdomains.xyz/app
+1. Goto dApp: [trxdomains.xyz/app](https://trxdomains.xyz/app)
 2. Connect wallet, show the list of created domains, click the "Set Primary" button below each domain (you need a gas fee to complete the transaction), reload the dapp to see the results shown above.
 
 Endpoint: https://app.trxdomains.xyz/api/domains/getDomain?address=TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd&network=mainnet
