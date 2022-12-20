@@ -4,7 +4,7 @@ dApp Mainnet: https://trxdomains.xyz/app
 
 Use NPMJS: https://github.com/TronWeb3Domains/trondomainjs/blob/main/README.md
 
-Contract Address (Mainnet): xdc295a7ab79368187a6cd03c464cfaab04d799784e - https://explorer.xinfin.network/tokens/xdc295a7ab79368187a6cd03c464cfaab04d799784e
+Contract Address (Mainnet): TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6 - https://tronscan.io/#/contract/TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6/code
 
 ### Get Balance of Domains
 
