@@ -6,7 +6,7 @@ Use NPMJS: https://github.com/TronWeb3Domains/trondomainjs/blob/main/README.md
 
 Contract Address (Mainnet): TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6 - https://tronscan.io/#/contract/TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6/code
 
-### isOnwer
+### isOwner - check if a wallet address is the owner of any domain
 
 Endpoint: https://app.trxdomains.xyz/api/domains/isOwner?address=TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd&network=mainnet
 
