@@ -6,6 +6,28 @@ Use NPMJS: https://github.com/TronWeb3Domains/trondomainjs/blob/main/README.md
 
 Contract Address (Mainnet): TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6 - https://tronscan.io/#/contract/TAtgoVq9xqv1C65hjFTerJQZFt4rbAPea6/code
 
+### isOnwer
+
+Endpoint: https://app.trxdomains.xyz/api/domains/isOwner?address=TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd&network=mainnet
+
+**Method: GET**
+
+**Param:**
+
+address: 'TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd'
+
+network: 'testnet' // mainnet default
+
+**Return:** 
+```
+{
+    "status": true,
+    "message": "Success",
+    "data": true
+}
+```
+
+
 ### Get Balance of Domains
 
 Endpoint: https://app.trxdomains.xyz/api/domains/getBalance?address=TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd&network=mainnet
@@ -17,8 +39,6 @@ Endpoint: https://app.trxdomains.xyz/api/domains/getBalance?address=TSFquXZoXtei
 address: 'TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd'
 
 network: 'testnet' // mainnet default
-
-metadata: true // false default return metadata along with domain information
 
 **Return:** 
 ```
