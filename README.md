@@ -28,7 +28,7 @@ network: 'testnet' // mainnet default
 ```
 
 
-### Get Balance of Domains
+### Get domain Balance of a wallet address
 
 Endpoint: https://app.trxdomains.xyz/api/domains/getBalance?address=TSFquXZoXtei19kDJ1Sy1YGjznz8gWhfKd&network=mainnet
 
@@ -74,7 +74,7 @@ metadata: true // false default return metadata along with domain information
     }
 }
 ```
-### Get a domain default from address
+### Get a domain primary from address
 Get a domain default from a user's address, requiring the user to set the default domain name initially.
 This will designate one of your domain to represent your account and act as your cross-platform Web3 username and profile. You can only have one Primary Domain per wallet address and can change it at any time. Steps to "Set Primary" domains:
 1. Goto dApp: [trxdomains.xyz/app](https://trxdomains.xyz/app)
